@@ -1,0 +1,31 @@
+#BlueJ class context
+#Sat Oct 24 14:03:31 COT 2026
+comment0.target=Wheel
+comment0.text=\r\n Clase Base para las Ruedas del simulador.\r\n
+comment1.target=Wheel()
+comment10.params=pos symbol
+comment10.target=void addSymbol(int, Symbol)
+comment11.params=color
+comment11.target=boolean delSymbol(java.lang.String)
+comment12.target=boolean spin()
+comment13.params=steps
+comment13.target=boolean spin(int)
+comment14.params=color
+comment14.target=boolean placeSymbol(java.lang.String)
+comment15.target=void notifySymbolSelected()
+comment16.target=java.util.ArrayList getSymbolColors()
+comment17.target=java.lang.String getVisibleSymbolColor()
+comment18.target=Symbol getVisibleSymbol()
+comment19.params=newX newY
+comment19.target=void draw(int, int)
+comment2.target=java.util.ArrayList getSymbols()
+comment20.target=void erase()
+comment3.target=int getVisibleIndex()
+comment4.params=index
+comment4.target=void setVisibleIndex(int)
+comment5.target=void lock()
+comment6.target=void unlock()
+comment7.target=boolean isLocked()
+comment8.target=boolean isRemovable()
+comment9.target=boolean isSwappable()
+numComments=21

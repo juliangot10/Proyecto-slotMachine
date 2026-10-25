@@ -1,0 +1,7 @@
+#BlueJ class context
+#Sat Oct 24 14:24:33 COT 2026
+comment0.target=SlotMachineCC4Test
+comment1.target=void setUp()
+comment2.target=void accordingApe1Ape2ShouldNotLockRebelWheel()
+comment3.target=void accordingApe1Ape2ShouldToggleShySymbolVisibility()
+numComments=4

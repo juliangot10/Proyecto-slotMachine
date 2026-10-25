@@ -1,0 +1,9 @@
+#BlueJ class context
+#Sat Oct 24 14:04:34 COT 2026
+comment0.target=RebelWheel
+comment0.text=\r\n Rueda Rebel\: No se deja bloquear, ni intercambiar, ni eliminar.\r\n
+comment1.target=RebelWheel()
+comment2.target=void lock()
+comment3.target=boolean isRemovable()
+comment4.target=boolean isSwappable()
+numComments=5
