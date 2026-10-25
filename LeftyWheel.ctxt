@@ -1,9 +1,0 @@
-#BlueJ class context
-#Sat Oct 24 14:04:35 COT 2026
-comment0.target=LeftyWheel
-comment0.text=\r\n Rueda Lefty\: Si tiene una rueda a su izquierda, al girar copia su estado.\r\n
-comment1.target=LeftyWheel()
-comment2.params=left
-comment2.target=void setLeftWheel(Wheel)
-comment3.target=boolean spin()
-numComments=4
