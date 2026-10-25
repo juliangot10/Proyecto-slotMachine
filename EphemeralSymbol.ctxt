@@ -1,8 +1,0 @@
-#BlueJ class context
-#Sat Oct 24 14:04:23 COT 2026
-comment0.target=EphemeralSymbol
-comment0.text=\r\n Simbolo Ephemeral\: Decrementa su tama\u00F1o en cada giro hasta quedar como un punto.\r\n
-comment1.params=color
-comment1.target=EphemeralSymbol(java.lang.String)
-comment2.target=void onSelected()
-numComments=3
