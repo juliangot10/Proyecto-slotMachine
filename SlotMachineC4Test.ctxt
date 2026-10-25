@@ -1,8 +1,0 @@
-#BlueJ class context
-#Sat Oct 24 14:24:32 COT 2026
-comment0.target=SlotMachineC4Test
-comment1.target=void setUp()
-comment2.target=void shouldNotDeleteRebelWheel()
-comment3.target=void shouldNotSwapRebelWheel()
-comment4.target=void shouldCopyStateInLeftyWheel()
-numComments=5
