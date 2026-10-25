@@ -1,8 +1,0 @@
-#BlueJ class context
-#Sat Oct 24 14:05:06 COT 2026
-comment0.target=ShySymbol
-comment0.text=\r\n Simbolo Shy\: Alterna su estado de visible a invisible cada vez que es seleccionado.\r\n
-comment1.params=color
-comment1.target=ShySymbol(java.lang.String)
-comment2.target=void onSelected()
-numComments=3
